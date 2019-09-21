@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://liekoodai.vero.tychy.pl/sitemap.xml
